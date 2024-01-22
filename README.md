@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hello World👋, I'm Larissa Barcellos</h1>
-<h3 align="center"> SOFTWARE ENGINEER 💻</h3>
+<h3 align="center"> SOFTWARE ENGINEER 💻🌟</h3>
 <img align="right" alt="Coding" width="380" src="https://64.media.tumblr.com/121b6bcc3406dd01177141944a2056a8/tumblr_nlmxs9DadR1tpfww7o1_500.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larissadcew&label=Profile%20views&color=0e75b6&style=flat" alt="larissadcew" /> </p>
