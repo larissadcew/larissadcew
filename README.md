@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhlZ2s2NzJ0bXJ4ZHN0M3lqdmN5YXA4YnI5YzUzdTA4dHh3eHc2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1wD2unsi91G8dnYEX/giphy.gif)
+![MasterHead](https://i.pinimg.com/564x/b3/77/8a/b3778a36a27071172ffce8e9b544aa4f.jpg)
 
 
 <h1 align="center">Hello World👋, I'm Larissa Barcellos</h1>
