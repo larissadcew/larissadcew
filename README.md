@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/564x/b3/77/8a/b3778a36a27071172ffce8e9b544aa4f.jpg)
 <h1 align="center">Hello World👋, I'm Larissa Barcellos</h1>
 <h3 align="center"> SOFTWARE ENGINEER 💻🌟</h3>
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/96/3d/bf/963dbf83410067b8216bf3fbeec50874.gif">
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/d1/fc/be/d1fcbe7006578310a4d8771fd9fb5a84.gif">
 
 
 
