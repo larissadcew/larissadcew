@@ -1,4 +1,5 @@
-[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5djQ3YWk3Ymt0a2pqOW5mOWo1NGp4c29panJjbDJsemo4dm0xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPj3kd166qt51gzmiN/source.gif)](https://rishavchanda.io)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhlZ2s2NzJ0bXJ4ZHN0M3lqdmN5YXA4YnI5YzUzdTA4dHh3eHc2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1wD2unsi91G8dnYEX/giphy.gif)
+
 <h1 align="center">Hello World👋, I'm Larissa Barcellos</h1>
 <h3 align="center"> SOFTWARE ENGINEER 💻🌟</h3>
 <img align="right" alt="Coding" width="380" src="https://64.media.tumblr.com/121b6bcc3406dd01177141944a2056a8/tumblr_nlmxs9DadR1tpfww7o1_500.gifv">
