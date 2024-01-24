@@ -2,8 +2,6 @@
 <h1 align="center">Hello World👋, I'm Larissa Barcellos</h1>
 <h3 align="center"> SOFTWARE ENGINEER 💻🌟</h3>
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/96/3d/bf/963dbf83410067b8216bf3fbeec50874.gif">
-</br>
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/34/9e/f5/349ef563f60e1bbc0c2ed9842c18911c.gif">
 
 
 
