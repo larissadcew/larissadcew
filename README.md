@@ -14,11 +14,11 @@
 
 - 💬 Ask me about **Data structure,Algoritm,python,C,HTML,Flask**
 
-- 📫 How to reach me **larissa_barcellos@outlook.com.br**
+- 📫 How to reach me **barcellos_job@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/larissa-barcellos-5b4275284/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ larissa-barcellos-5b4275284" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/larissa-barcellos-f-5b4275284/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ larissa-barcellos-5b4275284" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
