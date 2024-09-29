@@ -1,7 +1,7 @@
 
 <img src="https://th.bing.com/th/id/R.3f3768fc966ad91fe1a2fa011eac8179?rik=q4Osu4xdrlVKug&riu=http%3a%2f%2fp9.qhimg.com%2ft01e058f80e14a4a6ca.png&ehk=HfNBLDnO4tWzXepjzHrikLV0ZpXp%2f8c5MKjmOexp54Y%3d&risl=&pid=ImgRaw&r=0" width="20000" >
 <h1 align="center">Hello world 👋!, I'm Larissa Barcellos</h1>
-<h3 align="center">PYTHON WEB DEVELOPMENT💻🌟🧠</h3>
+<h3 align="center">Artificial Inteligence Engineer💻🌟🧠</h3>
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/d1/fc/be/d1fcbe7006578310a4d8771fd9fb5a84.gif">
 
 
