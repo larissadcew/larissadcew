@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **barcellos_job@outlook.com**
 
-- 📄 Know about my experiences [https://app.resumai.com/dashboard/resume/d8fOuoaSoSnmrVzDLCN7/finish-up](https://app.resumai.com/dashboard/resume/d8fOuoaSoSnmrVzDLCN7/finish-up)
+- 📄 Know about my experiences [https://app.resumai.com/dashboard/resume/d8fOuoaSoSnmrVzDLCN7/finish-up](https://app.resumai.com/dashboard/resume/d8fOuoaSoSnmrVzDLCN7/finish-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
